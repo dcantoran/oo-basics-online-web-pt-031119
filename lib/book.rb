@@ -10,15 +10,9 @@ class Book
   def title
     @title
   end
-  # def author 
-  #   @author 
-  # end 
-  # def page 
-  #   @page 
-  # end 
-  # def genre 
-  #   @genre 
-  # end
+  def turn_page
+    
+  end
   
 end 
 
